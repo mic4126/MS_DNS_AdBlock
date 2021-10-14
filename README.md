@@ -8,7 +8,7 @@ Powershell Script for MS DNS Server to Block Ad server by domain name without us
   
 # Usage
 1. Download the script
-2. Modify the ComputerNames array, whitelist and hostfile location
+2. Modify the ComputerNames array and whitelist
 3. Run the script
 4. Optionally, you can set to run the script by task scheduler (not tried yet)
 
